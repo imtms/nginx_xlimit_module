@@ -1,0 +1,1 @@
+The module makes it possible to load user configuration from redis in real time and limit the speed of each user dynamically.
